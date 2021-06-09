@@ -9,6 +9,10 @@ from simulation.simulation import Simulation
 Code for multi-agent simulation in PyGame with/without physical objects in the environment
 """
 
+"""
+Test
+"""
+
 if __name__ == "__main__":
     pygame.init()
     sim = Simulation(num_agents=config["base"]["n_agents"],
